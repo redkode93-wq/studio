@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A soft focus, elegant floral background for a wedding invitation hero section.",
+      "imageUrl": "https://images.unsplash.com/photo-1559759708-d6e99b50f0e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmbG9yYWwlMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTc1OTczMDMyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floral background"
+    },
+    {
+      "id": "groom-photo",
+      "description": "A portrait of the groom.",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTk2NzcyNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "bride-photo",
+      "description": "A portrait of the bride.",
+      "imageUrl": "https://images.unsplash.com/photo-1592621385612-4d7129426394?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1OTcxODAxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Wedding rings on a pillow.",
+      "imageUrl": "https://images.unsplash.com/photo-1492714485642-dd6df6baafa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3ZWRkaW5nJTIwcmluZ3N8ZW58MHx8fHwxNzU5NzIxMjc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wedding rings"
+    },
+    {
+      "id": "gallery-2",
+      "description": "A beautiful wedding cake.",
+      "imageUrl": "https://images.unsplash.com/photo-1503525642560-ecca5e2e49e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3ZWRkaW5nJTIwY2FrZXxlbnwwfHx8fDE3NTk3MDg1NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wedding cake"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A couple holding hands.",
+      "imageUrl": "https://images.unsplash.com/photo-1523251636652-de976ff82054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y291cGxlJTIwaGFuZHN8ZW58MHx8fHwxNzU5NzMwMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple hands"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Elegant wedding decoration.",
+      "imageUrl": "https://images.unsplash.com/photo-1632316962873-47ee3d309f02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3ZWRkaW5nJTIwZGVjb3JhdGlvbnxlbnwwfHx8fDE3NTk3MzAzMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wedding decoration"
+    },
+    {
+      "id": "gallery-5",
+      "description": "A bridal bouquet.",
+      "imageUrl": "https://images.unsplash.com/photo-1677768062220-32f1658715c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxicmlkYWwlMjBib3VxdWV0fGVufDB8fHx8MTc1OTY2MDk0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bridal bouquet"
+    },
+    {
+      "id": "cover-background",
+      "description": "Elegant, minimalist background for the cover screen of a wedding invitation.",
+      "imageUrl": "https://images.unsplash.com/photo-1519657054988-b41c01c5c3a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwZmxvcmFsfGVufDB8fHx8MTc1OTczMDMyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist floral"
+    }
+  ]
 }
